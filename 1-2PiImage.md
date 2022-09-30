@@ -9,6 +9,7 @@
 > - MicroSD Card Reader
 > - Raspberry Pi + ( Power Adapter )
 > - Your PC of Choice
+> ![HW](s/wdev01_group/PIC_pi_image/IMG_E1489.JPG)
 
 * * *
 # Part 1 : Create Bootable MicroSD
