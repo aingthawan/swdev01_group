@@ -11,7 +11,7 @@ Non do yet.
 
 ### 2. Install/run Mosquitto broker using RPi hardware.
 Before installing the MQTT broker to our Raspberry Pi, we need to update the operating system.All we need to do to update the system is to run the following two commands.
-```linux
+```console
 sudo apt update
 sudo apt upgrade 
 ```
