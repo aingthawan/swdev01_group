@@ -83,6 +83,7 @@ To subscribe to an MQTT topic with Mosquitto Client open a terminal and enter th
 mosquitto_sub -d -t testTopic
 ```
 ![mosquitto_sub](/PIC_mqtt_img/mqtt-sub.png)
+
 Now your RPI is ready to subscribe massage testTopic Topic.let Publishing message to testTopic Topic by MQTT Client.
 
 ### Publishing “Test” Message to testTopic Topic by MQTT Client (USE MQTT-EXPLORER)
@@ -94,7 +95,7 @@ hostname -I
 
 ![mqtt-ex-change-ip](/PIC_mqtt_img/mqtt-set-ip.png)
 
-Enter topic name you need to send massage to for me is "testTopic".and I will send massge "test".
+Enter topic name that you want to send massage to for me is "testTopic".and I will send massge "test".
 
 ![mqtt-send-msg](/PIC_mqtt_img/mqtt-pub.png)
 
