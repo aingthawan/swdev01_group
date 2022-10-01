@@ -56,7 +56,7 @@ Not done ...
 It have so many GUI-base of MQTT client you can check on this [link to list of GUI-based MQTT client ](https://www.hivemq.com/blog/seven-best-mqtt-client-tools/) but on this contents I will use MQTT Explorer as client on my note book to publish messages or subscribe to a topic. 
 First you need to dowload MQTT Explorer [download MQTT Explorer](http://mqtt-explorer.com/).
 
-[web-site-mqtt-ex](/PIC_mqtt_img/mqtt-ex.png)
+![web-site-mqtt-ex](/PIC_mqtt_img/mqtt-ex.png)
 
 Once the system finished installing, we need to run the mosquitto on (RPI) and set it to broker . This is how to set mosquitto broker for (RPI)
 ### Mosquitto Broker Enable Remote Access (No Authentication)
@@ -69,7 +69,7 @@ Move to the end of the file using the arrow keys and paste the following two lin
 listener 1883
 allow_anonymous true
 ```
-[mosquitto.conf](/PIC_mqtt_img/mqtt-conf.png)
+![mosquitto.conf](/PIC_mqtt_img/mqtt-conf.png)
 
 Then, press CTRL-X to exit and save the file. Press Y and Enter.
 Restart Mosquitto for the changes to take effect.
@@ -82,7 +82,7 @@ To subscribe to an MQTT topic with Mosquitto Client open a terminal and enter th
 ```console
 mosquitto_sub -d -t testTopic
 ```
-[mosquitto_sub](/PIC_mqtt_img/mqtt-sub.png)
+![mosquitto_sub](/PIC_mqtt_img/mqtt-sub.png)
 Now your RPI is ready to subscribe massage testTopic Topic.let Publishing message to testTopic Topic by MQTT Client.
 
 ### Publishing “Test” Message to testTopic Topic by MQTT Client (USE MQTT-EXPLORER)
@@ -90,13 +90,13 @@ Open your program and change host to your Raspberry Pi IP address.To use Mosquit
 ```console
 hostname -I
 ```
-[Raspberry-Pi-IP-address](/PIC_mqtt_img/hostname.png)
+![Raspberry-Pi-IP-address](/PIC_mqtt_img/hostname.png)
 
-[mqtt-ex-change-ip](/PIC_mqtt_img/mqtt-set-ip.png)
+![mqtt-ex-change-ip](/PIC_mqtt_img/mqtt-set-ip.png)
 
 Enter topic name you need to send massage to for me is "testTopic".and I will send massge "test".
 
-[mqtt-send-msg](/PIC_mqtt_img/mqtt-pub.png)
+![mqtt-send-msg](/PIC_mqtt_img/mqtt-pub.png)
 
 [mqtt-sub-msg]()
 
