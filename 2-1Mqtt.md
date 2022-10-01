@@ -62,6 +62,7 @@ First you need to dowload MQTT Explorer [download MQTT Explorer](http://mqtt-exp
 ![web-site-mqtt-ex](/PIC_mqtt_img/mqtt-ex.png)
 
 - Once the system finished installing, we need to run the mosquitto on (RPI) and set it to broker . This is how to set mosquitto broker for (RPI)
+
 ### Mosquitto Broker Enable Remote Access (No Authentication)
 - Run the following command to open the ```"mosquitto.conf"``` file.
 ```console
