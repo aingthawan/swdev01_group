@@ -23,7 +23,7 @@ sudo systemctl status mosquitto
 This command will return the status of the ``` “mosquitto” ``` service.
 You should see the text ``` “active (running)” ``` if the service has started up properly.Like this picture.
 
-![mosquitto-active]()
+![mosquitto-active](/PIC_mqtt_img/mqtt-active.png)
 
 ### 2.2 Install Mosquitto broker using RPi hardware.(Do the same thing like install on VM)
 Before installing the MQTT broker to our Raspberry Pi, we need to update the operating system.All we need to do to update the system is to run the following two commands.
