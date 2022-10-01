@@ -102,7 +102,7 @@ Enter topic name that you want to send massage to for me is "testTopic".and I wi
 
 ![mqtt-send-msg](/PIC_mqtt_img/mqtt-pub.png)
 
-[mqtt-sub-msg]()
+[mqtt-sub-msg]() no-img
 
 
 
