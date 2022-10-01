@@ -46,7 +46,7 @@ sudo systemctl status mosquitto
 This command will return the status of the ``` “mosquitto” ``` service.
 You should see the text ``` “active (running)” ``` if the service has started up properly.
 
-[mosquitto-active]()
+[mosquitto-active](PIC_mqtt_img/mqtt-active.png)
 
 ### 2.3 Install/run Mosquitto broker using Docker container (using either Ubuntu VM or RPi)
 
