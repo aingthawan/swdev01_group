@@ -1,3 +1,5 @@
+[<<<---- BACK](./)
+* * * 
 # 1.2) Install Raspberry OS on Micro SD Card
 
 > **Overall Requirement**
@@ -9,7 +11,7 @@
 > - MicroSD Card Reader
 > - Raspberry Pi + ( Power Adapter )
 > - Your PC of Choice
-> ![PIC HW](/PIC_pi_image/IMG_E1489.JPG )
+> ![image](https://user-images.githubusercontent.com/109336369/193408372-2367dddf-f3c1-4522-9e9b-2e457fdd553a.png)
 > 
 
 * * *
@@ -54,6 +56,32 @@
 
 * * * 
 # Part 2 : Boot OS on PI
+
+> First of all, After this it should be just pluging a MicroSD to the Raspberry Pi, Power on the SSH in via cmd or something else.
+> **But !** In our case the Board itself not or cannot connect to the network
+>  So! Our solution is 
+
+
+> - Need more equipments 
+>   - Capture Card
+>   - Mouse
+>   - Keyboard
+> - Connect 
+>   - Mouse + Keyboard ---->> Raspberry Pi USB port
+>   - Raspberry Pi HDMI port ---->> Capture Card ---->> PC USB ( By the way you can just connect the HDMI to some monitor anyway ( - _ -  )'  )
+> - Open Camera on your PC 
+>   - Click on swap camera function until you find your Raspberry Pi monitor.
+> - Now
+>   - Setup your wireless connection again, Then you are ready for SSH.
+> - SSH
+>   - On your PC Terminal type the command
+>        `ssh user@ip` 
+>
+>![image](https://user-images.githubusercontent.com/109336369/193408989-17c07fcc-7d89-4f4e-858c-6defc62fa784.png)
+
+* * *
+
+[<<<---- BACK](./)
 
 
 
