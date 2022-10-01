@@ -59,7 +59,7 @@ First you need to dowload MQTT Explorer [download MQTT Explorer](http://mqtt-exp
 [web-site-mqtt-ex]()
 
 Once the system finished installing, we need to run the mosquitto on (RPI) and set it to broker . This is how to set mosquitto broker for (RPI)
-#### Mosquitto Broker Enable Remote Access (No Authentication)
+### Mosquitto Broker Enable Remote Access (No Authentication)
 Run the following command to open the ```"mosquitto.conf"``` file.
 ```console
 sudo nano /etc/mosquitto/mosquitto.conf
@@ -77,7 +77,7 @@ Restart Mosquitto for the changes to take effect.
 sudo systemctl restart mosquitto
 ```
 
-#### Testing Mosquitto Broker and MQTT Client
+### Testing Mosquitto Broker and MQTT Client
 To subscribe to an MQTT topic with Mosquitto Client open a terminal and enter the command
 ```console
 mosquitto_sub -d -t testTopic
@@ -85,7 +85,7 @@ mosquitto_sub -d -t testTopic
 [mosquitto_sub]()
 Now your RPI is ready to subscribe massage testTopic Topic.let Publishing message to testTopic Topic by MQTT Client.
 
-#### Publishing “Test” Message to testTopic Topic by MQTT Client (USE MQTT-EXPLORER)
+### Publishing “Test” Message to testTopic Topic by MQTT Client (USE MQTT-EXPLORER)
 Open your program and change host to your Raspberry Pi IP address.To use Mosquitto broker in your projects, you’ll need to know the Raspberry Pi IP address. To retrieve your Raspberry Pi IP address, type the next command in your Pi Terminal window.
 ```console
 hostname -I
