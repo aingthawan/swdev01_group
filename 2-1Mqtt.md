@@ -1,4 +1,4 @@
-### [🢀 Back to Previous page](/1-2PiImage.md)
+### [🢀 Back to Previous page](./)
 
 
 # Module 2. Exploring MQTT broker
@@ -107,7 +107,7 @@ hostname -I
 
 
 
-### [🢀 Back to Previous page](/1-2PiImage.md)
+### [🢀 Back to Previous page](./)
 
 
 
