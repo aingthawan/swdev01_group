@@ -1,5 +1,5 @@
-# Module 1. Exploring Raspberry Pi OS.
-This is how I install and run Raspberry Pi os on Virtual machine (VM). Unfortunately I don't have the opportunuty to use the real hardware or the real Raspberry Pi board, So in this blog will only contain how I install and set up the Raspberry Pi os on VM.  
+# 1.1) Install/Run Raspberry Pi OS
+This is how I install and run Raspberry Pi os on Virtual machine (VM).  
 ![raspbianlogo](PIC_raspVM/raspbian.png)  
 
 ## What is Raspberry pi OS?
