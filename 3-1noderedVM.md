@@ -1,5 +1,8 @@
 # 3  Exploring Node-RED
-Node-RED is a flow-based development tool for visual programming developed originally by IBM for wiring together hardware devices, APIs and online services as part of the Internet of Things.
+Node-RED is a powerful open-source tool for building Internet of Things (IoT) applications with the goal of simplifying the programming component.  
+  
+Node-RED runs on the web browser and it uses visual programming that allows you to connect code blocks, known as nodes, together to perform a task. The nodes when wired together are called flows.  
+![node-red](PIC-nodered/nodered_logo.png)  
 
 ## 3.1  Install/run Node-RED using Linux VM(Raspbian OS) and RPI hardware.
 I discovered that installing Node-RED on VM and RPI hardware are pretty similar so I will just do a tutorial on how I install Node-RED using Raspbian OS VM. And ่
