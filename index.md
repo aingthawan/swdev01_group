@@ -13,4 +13,4 @@
 * [2.1 - 2.4 Exploring MQTT broker ](2-1Mqtt.md)
 
 ## Module 3 Exploring Node-RED
-* [3.1-3.2](3-1noderedVM.md)
+* [3.1-3.2 Install/run Node-RED using Linux VM(Raspbian OS) and RPI hardware.](3-1noderedVM.md)
