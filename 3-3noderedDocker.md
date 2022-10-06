@@ -16,6 +16,7 @@ docker run -it -p 1880:1880 -v YOUR_LOCAL_FOLDER_HERE:/data --name nodered noder
 ```  
 
 `YOUR_LOCAL_FOLDER_HERE` Path you want to install Node-Red
+
 Ex. /Users/doubleu02/nodered
 
 After running the script if you get download status like this, then you are good to go!  
@@ -24,7 +25,7 @@ After running the script if you get download status like this, then you are good
 
 ### 2.) Run Node-RED
 After finished download, it's time to run it. To run it all you have to do is running this command.  
-Copy `https//127.0.0.1:1880` paste on Browser 
-You will get this on your terminal. Scroll down, and you will see  a link to your flow.  
+
+Copy `https://127.0.0.1:1880/` paste on Browser 
 
 ![RUNnodered](PIC_nodered/docker_nodered.jpg)  
