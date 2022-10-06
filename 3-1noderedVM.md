@@ -15,4 +15,9 @@ After running the script if you get download status like this, then you are good
 ![DLnodered](PIC_nodered/nodered_dlstatus.png)  
 
 ### 2.) Run Node-RED
-After finished download, it's time to run it
+After finished download, it's time to run it. To run it all you have to do is running this command.  
+```bash
+node-red
+```  
+You will get this on your terminal. Scroll down, and you will see  a link to your flow.  
+![RUNnodered]()
