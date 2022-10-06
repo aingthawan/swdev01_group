@@ -17,7 +17,7 @@ docker run -it -p 1880:1880 -v YOUR_LOCAL_FOLDER_HERE:/data --name nodered noder
 
 `YOUR_LOCAL_FOLDER_HERE` Path you want to install Node-Red
 
-Ex. /Users/doubleu02/nodered
+`Ex. /Users/doubleu02/nodered`
 
 After running the script if you get download status like this, then you are good to go!  
   
