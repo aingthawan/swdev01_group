@@ -20,4 +20,9 @@ After finished download, it's time to run it. To run it all you have to do is ru
 node-red
 ```  
 You will get this on your terminal. Scroll down, and you will see  a link to your flow.  
-![RUNnodered]()
+  
+![RUNnodered](PIC_nodered/nodered_run.png)  
+  
+And here is your flow.  
+  
+![FLOWnodered](PIC_nodered/nodered_flow.png)  
