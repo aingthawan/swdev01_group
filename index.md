@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/109336369/194469948-533a8f06-f5c9-4425-b756-1aab5f199e0d.png)
 
-## [OUR MEMBER LIST!  <<<--- VISIT OUT NOW](memberPage.md)
+## [OUR MEMBER LIST!  <<<--- VISIT NOW!](memberPage.md)
 
 * * * 
 
