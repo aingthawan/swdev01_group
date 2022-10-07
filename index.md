@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/109336369/194469948-533a8f06-f5c9-4425-b756-1aab5f199e0d.png)
 
-## [OUR MEMBER LIST!](memberPage.md)
+## [OUR MEMBER LIST!  <<<--- VISIT OUT NOW](memberPage.md)
 
 * * * 
 
@@ -21,3 +21,10 @@
 ## Module 4: Exploring Zigbee2MQTT
 * [4.1/4.2 Install/run Zigbee2MQTT on UBUNTU VM -or- Raspberry Pi](4-1zigbee2mqttonvm.md)
 * UNDER CONSTRUCTION . . .
+
+* * *
+
+# PROJECT 
+
+![image](https://user-images.githubusercontent.com/109336369/194591878-0914539f-8862-4a56-9023-05831c94518b.png)
+
