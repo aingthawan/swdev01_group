@@ -9,7 +9,9 @@
 
 > Required Component
 > * Zigbee USB Adapter (In this case, we are using ***Sonoff CC2652P USB Dongle*** )
-> ![image](https://user-images.githubusercontent.com/109336369/194566991-bfef5c1f-f1fe-4e13-aee1-7b58b2fc95bb.png)
+> * ( For more infomation about [SONOFF ZigBee 3.0](https://sonoff.tech/product/diy-smart-switch/sonoff-zigbee-3-0-usb-dongle-plus-p/) )
+> * ![image](https://user-images.githubusercontent.com/109336369/194566991-bfef5c1f-f1fe-4e13-aee1-7b58b2fc95bb.png)
+> 
 
 > ### Step 0 : Install Z-Stack firmware for using Zigbee Dongle with Zigbee2MQTT
 > * Install package cc2538-bsl via these command
