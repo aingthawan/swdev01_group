@@ -20,11 +20,18 @@
 
 ## Module 4: Exploring Zigbee2MQTT
 * [4.1/4.2 Install/run Zigbee2MQTT on UBUNTU VM -or- Raspberry Pi](4-1zigbee2mqttonvm.md)
-* UNDER CONSTRUCTION . . .
+* [4.4 Join ZigBee devices to the Zigbee network ](4-4connectZigbeeDevice.md)
 
 * * *
 
 # PROJECT 
 
 ![image](https://user-images.githubusercontent.com/109336369/194591878-0914539f-8862-4a56-9023-05831c94518b.png)
+
+
+
+
+* * *
+#### Some vibin auto play music
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ChXFqY_-BSc?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
