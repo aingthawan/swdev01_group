@@ -19,4 +19,5 @@
 * [3.3  Install/run Node-RED using Docker container (using either Linux VM or RPi).](3-3noderedDocker.md)
 
 ## Module 4: Exploring Zigbee2MQTT
+* [4.1/4.2 Install/run Zigbee2MQTT on UBUNTU VM -or- Raspberry Pi](4-1zigbee2mqttonvm.md)
 * UNDER CONSTRUCTION . . .
