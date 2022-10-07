@@ -5,7 +5,7 @@ Node-RED runs on the web browser and it uses visual programming that allows you 
   
 ![node-red](PIC_nodered/nodered_logo.png)  
 
-## 3.1  Install/run Node-RED using Docker container (using either Linux VM or RPi).
+## 3.3  Install/run Node-RED using Docker container (using either Linux VM or RPi).
 I discovered that installing Node-RED on VM and RPI hardware are pretty similar so I will just do a tutorial on how I install Node-RED using Raspbian OS VM. And ่
 
 ### 1.) Installing Docker
