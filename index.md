@@ -17,3 +17,6 @@
 ## Module 3 Exploring Node-RED
 * [3.1-3.2 Install/run Node-RED using Linux VM(Raspbian OS) and RPI hardware.](3-1noderedVM.md)
 * [3.3  Install/run Node-RED using Docker container (using either Linux VM or RPi).](3-3noderedDocker.md)
+
+## Module 4: Exploring Zigbee2MQTT
+* UNDER CONSTRUCTION . . .
