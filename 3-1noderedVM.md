@@ -27,6 +27,6 @@ You will get this on your terminal. Scroll down, and you will see  a link to you
   
 ![RUNnodered](PIC_nodered/nodered_run.png)  
   
-And here is your flow.  
+Copy and paste the given link in the crowser. And here is your flow.  
   
 ![FLOWnodered](PIC_nodered/nodered_flow.png)  
