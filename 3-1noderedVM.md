@@ -30,3 +30,9 @@ You will get this on your terminal. Scroll down, and you will see  a link to you
 Copy and paste the given link in the crowser. And here is your flow.  
   
 ![FLOWnodered](PIC_nodered/nodered_flow.png)  
+
+### 3.) Setup Node-Red
+This step is optional, in case you want to run node-red UI on another computer. You have to run `noder-red admin init`, all you have to do is pressing enter along the way and you have to set your username and password and continue pressing enter.  
+  
+  After that you have to run 'node-red-start' to start hosting your Node-Red flow server. You can access your flow by going to `IP-ADDRESS of the hosting server` port `1880`. You can stop hosting your flow by running `node-red-stop`.
+
