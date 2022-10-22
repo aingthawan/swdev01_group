@@ -22,6 +22,9 @@
 * [4.1/4.2 Install/run Zigbee2MQTT on UBUNTU VM -or- Raspberry Pi](4-1zigbee2mqttonvm.md)
 * [4.4 Join ZigBee devices to the Zigbee network ](4-4connectZigbeeDevice.md)
 
+## Module 5: Exploring Arduino-ESP32
+* [5.1 Write Arduino sketches to subscribe messages from the MQTT broker](5-1esp32_to_mqttbroker.md)
+
 * * *
 
 # PROJECT 
