@@ -24,7 +24,7 @@
 ### REMARK ! ! ! : 
 From my exprience ESP32 device **CANNOT CONNECT TO IOS DEVICE HOTSPOT** ( Iphone 13, In this case )
 
-Might works others IDK.
+Might works for others IDK.
 
 ![image](https://user-images.githubusercontent.com/109336369/197332768-234ff6cd-19d3-425e-aaee-f7a947b03418.png)
 
