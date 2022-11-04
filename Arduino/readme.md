@@ -1,1 +1,1 @@
-#### ตัว sensor to mqtt ยังไม่ได้ลอง test
+USE : esp8266_poten_mqtt.ino for ESP8266
