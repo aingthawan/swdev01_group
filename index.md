@@ -29,7 +29,8 @@
 
 # PROJECT 
 
-![image](https://user-images.githubusercontent.com/109336369/194591878-0914539f-8862-4a56-9023-05831c94518b.png)
+* [Project Proporsal](/Mini-Project/work_log_1.md)
+
 
 
 
