@@ -29,8 +29,8 @@
 
 # PROJECT 
 
-* [Project Proporsal](/Mini-Project/work_log_1.md)
-
+* [Mini-Project Proporsal](/Mini-Project/work_log_1.md)
+* [Project Log ( 4 Nov, 2022 )](/Mini-Project/work_log_2.md)
 
 
 
