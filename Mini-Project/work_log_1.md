@@ -4,9 +4,13 @@
 2 November, 2022
 
 > Report for : 
+> 
 > 010123131 Software Development 
+> 
 > Academic Year 1/2022
+> 
 > Computer Engineering ( CprE. )
+> 
 > king mongkut's university of technology north bangkok
 
 * * *
@@ -21,8 +25,10 @@
 >
 > [Image of Mini-Project Draft Paper]
 >
->	In the 3D printing process of FDM type printers, the melting of plastic processes releases harmful particles into the air. The melting of plastic such as ABS, PETG, or Nylon filaments emits a strong odors and particles, such as VOCs (Volatile Organic Compound) and Dust Particles, that may induce headaches, nausea, or long term effect on health that can cause cancer.
->	This Project has come to save the 3D-printer user. By detecting the gas ( Or other particles emitted from plastic melting in the hotend ) and turn on the ventilator, Air Purifier, or other device of choice. Also user can keep track of the toxic gas in their 3d printing area and control the ventilator device wirelessly via dashboard online
+>	In the 3D printing process of FDM type printers, the melting of plastic processes releases harmful particles into the air. The melting of plastic such as ABS, > PETG, or Nylon filaments emits a strong odors and particles, such as VOCs (Volatile Organic Compound) and Dust Particles, that may induce headaches, nausea, or long >term effect on health that can cause cancer.
+>	This Project has come to save the 3D-printer user. By detecting the gas ( Or other particles emitted from plastic melting in the hotend ) and turn on the 
+> ventilator, Air Purifier, or other device of choice. Also user can keep track of the toxic gas in their 3d printing area and control the ventilator device 
+> wirelessly via dashboard online
 
 * * *
 
