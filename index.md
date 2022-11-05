@@ -2,7 +2,16 @@
 
 ## [OUR MEMBER LIST!  <<<--- VISIT NOW!](memberPage.md)
 
-* * * 
+* * *
+
+# MINI - PROJECT 
+
+* [Mini-Project Proporsal](/Mini-Project/work_log_1.md)
+* [Project Log ( 4 Nov, 2022 )](/Mini-Project/work_log_2.md)
+
+* * *
+
+* * *
 
 # Learning Activities Group Based
 
@@ -24,16 +33,6 @@
 
 ## Module 5: Exploring Arduino-ESP32
 * [5.1 Write Arduino sketches to subscribe messages from the MQTT broker](5-1esp32_to_mqttbroker.md)
-
-* * *
-
-# PROJECT 
-
-* [Mini-Project Proporsal](/Mini-Project/work_log_1.md)
-* [Project Log ( 4 Nov, 2022 )](/Mini-Project/work_log_2.md)
-
-
-
 
 * * *
 
